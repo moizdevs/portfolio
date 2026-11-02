@@ -11,7 +11,7 @@ export const siteConfig = {
   /** Add your real profile URLs here. Empty values are hidden automatically. */
   social: {
     github: "https://github.com/moizdevs", // TODO: verify this is your GitHub username
-    linkedin: "", // TODO: paste your LinkedIn profile URL
+    linkedin: "https://www.linkedin.com/in/moiz-rehman-79383942a/", // TODO: paste your LinkedIn profile URL
   },
   /** Drop your CV at public/cv/CV-Moiz.pdf (a placeholder is included). */
   cvPath: "/cv/CV-Moiz.pdf",
