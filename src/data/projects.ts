@@ -7,6 +7,17 @@ import type { Project } from "@/types";
  */
 export const projects: Project[] = [
   {
+    slug: "school-management-system",
+    title: "School Management System",
+    tagline: "Streamlined administration",
+    description: "Comprehensive school management solution.",
+    tags: ["Education", "Management", "Web App"],
+    repo: "https://github.com/moizdevs/school-management-MERN-",
+    image: "/images/projects/school management system.jpg",
+    hue: 262,
+    featured: true,
+  },
+  {
     slug: "chatnova",
     title: "ChatNova",
     tagline: "AI-powered chatbot",
@@ -19,18 +30,6 @@ export const projects: Project[] = [
     featured: true,
   },
   {
-    slug: "video-player",
-    title: "Video Player Application",
-    tagline: "YouTube-inspired player",
-    description: "A YouTube-inspired video browsing and playback interface.",
-    tags: ["JavaScript", "UI", "Video"],
-    live: "https://moizdevs.github.io/video-Player/",
-    repo: "https://github.com/moizdevs/video-Player",
-    image: "/images/projects/video-player.jpg",
-    hue: 345,
-    featured: true,
-  },
-  {
     slug: "kristi",
     title: "Kristi E-commerce",
     tagline: "Elegant online store",
@@ -40,6 +39,18 @@ export const projects: Project[] = [
     repo: "https://github.com/moizdevs/kristi",
     image: "/images/projects/kristi-rho.jpg",
     hue: 190,
+    featured: true,
+  },
+  {
+    slug: "video-player",
+    title: "Video Player Application",
+    tagline: "YouTube-inspired player",
+    description: "A YouTube-inspired video browsing and playback interface.",
+    tags: ["JavaScript", "UI", "Video"],
+    live: "https://moizdevs.github.io/video-Player/",
+    repo: "https://github.com/moizdevs/video-Player",
+    image: "/images/projects/video-player.jpg",
+    hue: 345,
     featured: true,
   },
   {
